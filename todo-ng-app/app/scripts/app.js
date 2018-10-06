@@ -3,7 +3,6 @@
 var app = angular
     .module('todoApp', [
         'ngAnimate',
-        'ngResource',
         'ngRoute',
         'ui.router'
     ])
